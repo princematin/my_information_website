@@ -1,71 +1,121 @@
-# 🌐 Personal Portfolio Website
+# 💼 Matin Javadian Portfolio
 
-Welcome to my personal portfolio website!
+A modern and responsive personal portfolio website built with pure **HTML**, **CSS**, and **JavaScript** in a **single file**.
 
-This project represents my personal portfolio, where I introduce myself, showcase my skills, projects, goals, and provide ways to get in touch. It was built as part of my journey to become a professional software developer and AI engineer.
-
-## ✨ Features
-
-* Responsive design for desktop and mobile devices
-* Modern and clean user interface
-* English and Persian language support
-* About Me section
-* Skills section
-* Projects showcase
-* Certificates section
-* Personal goals
-* Gallery
-* Contact information
-
-## 🛠️ Built With
-
-* HTML5
-* CSS3
-
-## 📂 Project Structure
-
-```text
-Portfolio/
-│
-├── index.html          # English version
-├── fa.html             # Persian version
-
-```
-
-## 🚀 Getting Started
-
-1. Clone the repository.
-
-```bash
-git clone https://github.com/princematin/my_information_website.git
-```
-
-2. Open the project folder.
-
-3. Launch `index.html` in your web browser.
-
-No installation or additional dependencies are required.
-
-## 📌 Future Improvements
-
-* JavaScript animations
-* Dark/Light theme switch
-* Downloadable CV
-* Project filtering
-* Contact form with backend support
-* Blog section
-* More interactive UI components
-
-## 👨‍💻 Author
-
-**Matin Javadian**
-
-Computer Science Student
-Python Developer
-Future AI Engineer
-
-GitHub: https://github.com/princematin
+Designed to showcase my skills, projects, and future goals as a **Python Backend Developer** and **Computer Science Student**.
 
 ---
 
-Thank you for visiting this project. Feedback, suggestions, and contributions are always welcome.
+## ✨ Features
+
+* 🎨 Premium dark theme (Emerald, Gold, Burgundy & Black)
+* 📱 Fully Responsive Design
+* ✨ Smooth Scroll Animations
+* 🖼️ Animated Hero Section
+* 📂 Interactive Project Modals
+* 📊 Animated Skill Bars
+* 🌟 Glassmorphism UI
+* 🧭 Active Navigation Bar
+* ⚡ Pure HTML, CSS & JavaScript
+* 📄 Single-file Architecture
+
+---
+
+## 🛠 Technologies
+
+* HTML5
+* CSS3
+* JavaScript (Vanilla)
+* Font Awesome
+* Google Fonts
+
+---
+
+## 👨‍💻 About Me
+
+I'm **Matin Javadian**, a Computer Science student and Python Backend Developer passionate about software engineering, backend development, and artificial intelligence.
+
+My goal is to continuously improve my programming skills, gain industry experience, continue my education in Germany, and eventually build my own technology company.
+
+---
+
+## 🚀 Projects
+
+### 🔢 Scientific Calculator
+
+An advanced calculator developed with Python featuring clean architecture and mathematical operations.
+
+### 🌐 Personal Portfolio
+
+A modern responsive portfolio website designed using HTML, CSS and JavaScript.
+
+### 🎮 Python Quiz Game
+
+An educational quiz application built with Python.
+
+---
+
+## 🎯 Currently Learning
+
+* Django
+* Artificial Intelligence
+* Machine Learning
+* Advanced Python
+* German Language
+
+---
+
+## 📷 Preview
+
+> Add a screenshot of your portfolio here.
+
+Example:
+
+```
+images/preview.png
+```
+
+---
+
+## ⚙ Installation
+
+Clone the repository:
+
+```bash
+git https://github.com/princematin/my_information_website
+```
+
+Open:
+
+```text
+index.html
+```
+
+No installation or dependencies required.
+
+---
+
+## 📬 Contact
+
+GitHub:
+https://github.com/princematin
+Email:
+[matinx636@email.com](matinx636@gmail.com)
+
+---
+
+## ⭐ Future Improvements
+
+* Dark / Light Mode
+* Multi-language Support
+* More Projects
+* Blog Section
+* Download Resume (PDF)
+
+---
+
+# "Code is not only about solving problems.
+
+It's about creating something meaningful."
+
+— Matin Javadian
